@@ -1,6 +1,21 @@
-# Awesome Cloudflare Ops Survival Guide 🛡️☁️
+<div align="center">
 
-> Cloudflare 运维生存与避坑指南：这不是一份 API 翻译文档，而是一份由无数次 `525`、`522`、`9106` 报错和深夜排错凝结而成的实战血泪史。
+# 🛡️☁️ Cloudflare Ops Survival Guide
+
+**Cloudflare 运维踩坑宝典 — 深夜排错凝结而成的实战血泪史**
+
+[![GitHub stars](https://img.shields.io/github/stars/Mer3y1338/cloudflare-ops-survival-guide?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Docs](https://img.shields.io/badge/docs-13%20guides-blue?style=flat-square)](#目录-contents)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/pulls)
+
+*这不是一份 API 翻译文档，而是一份由无数次 `525`、`522`、`9106` 报错和深夜排错凝结而成的实战 SOP。*
+
+**[快速开始](#目录-contents)** · **[贡献指南](#贡献-contributing)** · **[Issues](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/issues)**
+
+</div>
+
+---
 
 ## 为什么会有这个项目？
 
