@@ -61,3 +61,5 @@
 ## 许可证 (License)
 
 MIT License
+
+【感谢Linux.do社区及GitHub社区各位开发者对项目的支持与贡献】
