@@ -7,6 +7,8 @@
 [![Docs](https://img.shields.io/badge/docs-13%20guides-blue?style=flat-square)](#目录-contents)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/pulls)
 
+**语言：** **简体中文** · [English](README.en.md)
+
 *这不是一份 API 翻译文档，而是一份由无数次 `525`、`522`、`9106` 报错和深夜排错凝结而成的实战 SOP。*
 
 **[快速开始](#目录-contents)** · **[贡献指南](#贡献-contributing)** · **[Issues](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/issues)**
