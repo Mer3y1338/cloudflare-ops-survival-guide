@@ -35,7 +35,7 @@
 ### 1. SSL/TLS 与回源故障排查 (Origin SSL & Routing)
 - [Error 525 (SSL handshake failed) 终极排查指南](docs/error-525-survival-guide.md)
 - [EdgeOne / 非 CF CDN 的 521/525 回源变体](docs/edgeone-origin-521-525.md)
-- [源站 8043 端口与 Origin Rules 冲突陷阱](docs/origin-rules-port-mismatch.md)
+- [源站端口与 Origin Rules：端口 override 的适用边界与冲突陷阱](docs/origin-rules-port-mismatch.md)
 
 ### 2. Pages & Workers 部署避坑 (Deployment Pitfalls)
 - [Wrangler 部署 9106/6111 假 Token 死循环陷阱](docs/wrangler-9106-token-trap.md)
