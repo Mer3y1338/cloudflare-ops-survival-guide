@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Mer3y1338/cloudflare-ops-survival-guide?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/docs-13%20guides-blue?style=flat-square)](#contents)
+[![Docs](https://img.shields.io/badge/docs-14%20guides-blue?style=flat-square)](#contents)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/pulls)
 
 **Languages:** [简体中文](README.md) · **English**
@@ -39,6 +39,7 @@ This repository collects the kinds of **dangerous, practical failure modes that 
 ### 2. Pages & Workers Deployment Pitfalls
 - [Wrangler 9106/6111 fake-token dead-loop trap](docs/wrangler-9106-token-trap.md)
 - [Why Cloudflare Pages deployments of React/Vite SPAs show a blank page, and how to fix it](docs/pages-spa-white-screen.md)
+- [OpenNext / Next.js apps on Cloudflare Workers Builds](docs/opennext-workers-builds.md)
 - [Error 1014: CNAME Cross-User Banned](docs/error-1014-cname-banned.md)
 - [Error 100117: Apex domain binding conflict](docs/error-100117-apex-domain.md)
 

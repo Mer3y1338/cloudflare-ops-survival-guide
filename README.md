@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Mer3y1338/cloudflare-ops-survival-guide?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/docs-13%20guides-blue?style=flat-square)](#目录-contents)
+[![Docs](https://img.shields.io/badge/docs-14%20guides-blue?style=flat-square)](#目录-contents)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/pulls)
 
 **语言：** **简体中文** · [English](README.en.md)
@@ -38,6 +38,7 @@
 ### 2. Pages & Workers 部署避坑 (Deployment Pitfalls)
 - [Wrangler 部署 9106/6111 假 Token 死循环陷阱](docs/wrangler-9106-token-trap.md)
 - [Pages 部署 SPA (React/Vite) 出现白屏的根因与修复](docs/pages-spa-white-screen.md)
+- [OpenNext / Next.js Workers Builds 部署避坑](docs/opennext-workers-builds.md)
 - [Error 1014: CNAME Cross-User Banned 跨账户绑定拦截](docs/error-1014-cname-banned.md)
 - [Error 100117: 根域名 (Apex Domain) 绑定冲突](docs/error-100117-apex-domain.md)
 
